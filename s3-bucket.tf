@@ -10,4 +10,3 @@ module "s3_bucket" {
   }
 
 }
-# meh
